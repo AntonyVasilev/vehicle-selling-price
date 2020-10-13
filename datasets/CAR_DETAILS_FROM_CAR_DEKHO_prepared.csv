@@ -1,526 +1,526 @@
 name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,fuel_CNG,fuel_Diesel,fuel_LPG,fuel_Petrol,seller_type_Dealer,seller_type_Individual,seller_type_Trustmark Dealer,transmission_Automatic,transmission_Manual,owner_First Owner,owner_Fourth & Above Owner,owner_Second Owner,owner_Third Owner
-Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
-Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
-Chevrolet Enjoy TCDi LTZ 7 Seater,2013,390000,33000,Diesel,Individual,Manual,Second Owner,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-Maruti Omni Maruti Omni MPI STD BSIII 5-STR W/ IMMOBILISER,2018,310000,28000,Petrol,Dealer,Manual,First Owner,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
-Mahindra Jeep CL 500 MDI,1996,250000,35000,Diesel,Individual,Manual,Second Owner,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
-Hyundai EON Magna Plus,2018,300000,31000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Indigo Classic Dicor,2007,100000,39000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Brio S MT,2015,371000,20000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO 1.0 S,2017,210000,15000,Petrol,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Maruti SX4 Zxi BSIII,2008,175000,29173,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Nissan Micra Active XV Petrol,2017,399000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2017,315000,16000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2017,350000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.1L,2015,229999,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 Std,1998,40000,40000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,,,,,,,,,
-Maruti 800 AC BSIII,2005,100000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2013,280000,3240,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID RXT,2016,225000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Beat LT,2016,320000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 LXI CNG,2020,282000,40000,CNG,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano LX SE,2013,72000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2018,380000,22155,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 7 Seater Standard BSIV,2017,390000,24000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Nissan Micra XL,2014,210000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Omni MPI STD BSIV,2018,200000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2018,360000,26500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2017,282000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Ertiga VXI ABS,2013,350000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Brio 1.2 E MT,2017,350000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.2 Revotron XZ,2018,360000,4000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,229999,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Spark 1.0 LT,2012,125000,28000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail 1.2 LT ABS,2014,350000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2005,80000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Datsun GO A,2015,250000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2014,300000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Indica LSI,2002,125000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano STD,2013,55000,25000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,,,,,,,,,
-Hyundai Grand i10 Sportz,2016,350000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI AGS Optional,2018,300000,25000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Alto LX,2011,145000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT Optional,2017,270000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,325000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 AC,2000,60000,40000,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Maruti Swift VVT VXI,2017,400000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i20 Sportz Petrol,2010,250000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.2 Revotron XZA,2019,350000,15000,Petrol,Individual,Automatic,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2016,130000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2014,190000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2016,300000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Spark 1.0 LS,2008,75000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Ritz VDi,2011,150000,40000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Santro Era,2019,350000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Endeavour 4x4 XLT,2004,275000,22288,Diesel,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Tata Nano Lx,2011,75000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2017,390000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,310000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni MPI STD BSIV,2018,250000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Zest Revotron 1.2 XT,2015,380000,17152,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2013,200000,24005,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO Plus T Option BSIV,2018,270000,19000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI Airbag,2015,275000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Era 1.1,2009,270000,27633,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2015,275000,14365,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2015,295000,21000,Petrol,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2014,114999,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni E MPI STD BS IV,2014,229999,11451,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater Standard BSIV,2019,380000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Lx BSIV,2012,75000,29900,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2016,270000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2009,110000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra Renault Logan 1.4 GLX Petrol,2008,145000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Ritz LXI,2009,300000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2018,195000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano LX,2013,58000,27974,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2018,183000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LX Minor,2013,250000,38000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LX Minor,2013,250000,38000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Zest Revotron 1.2 XT,2014,400000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,2013,325000,35299,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2010,140000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2017,229999,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2018,325000,20629,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Grand i10 AT Asta,2015,400000,30000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Honda Brio S MT,2015,350000,34823,Petrol,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2017,290000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.2,2008,150000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti SX4 Vxi BSIV,2013,400000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Xcent 1.2 Kappa SX,2016,350000,12000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra Quanto C8,2013,300000,25000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2011,260000,28481,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2009,180000,30375,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID Climber 1.0 AMT BSIV,2017,350000,7658,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Renault KWID RXL BSIV,2017,325000,18500,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R AMT VXI,2014,300000,28942,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Fiat Palio D 1.9 EL PS,2003,55000,35000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Honda Brio 1.2 S MT,2017,400000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni MPI STD BSIV,2018,200000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano LX,2013,60000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i20 1.2 Spotz,2017,400000,38000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Nano Std,2011,40000,19000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LX,2012,155000,19077,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON D Lite,2016,210000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON 1.0 Era Plus,2018,100000,21302,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,300000,10500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Jazz VX,2011,385000,11473,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2014,260000,37605,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.2 AT,2013,330000,38000,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Renault KWID RXT Optional,2016,250000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2019,350000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI Airbag,2019,350000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2017,320000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Indica Vista TDI LS,2014,250000,25000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2014,210000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Ritz LXI,2009,300000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Brio 1.2 S MT,2017,400000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2018,380000,22155,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 7 Seater Standard BSIV,2018,270000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON 1.0 Era Plus,2017,280000,28838,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO T Petrol,2015,310000,32686,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,370000,10000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2015,250000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Esteem VX,1999,60000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater AC BSIV,2017,260000,30000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,285000,30000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Magna,2012,240000,40000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2015,245000,32000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LX,2011,180000,36000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON D Lite Plus,2013,229999,13500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2017,350000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Grand i10 Magna,2015,325000,25000,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Maruti Alto LXi BSIII,2010,150000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2014,204999,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Grand i10 Sportz,2017,375000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.1L,2017,375000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Grand i10 Asta,2014,341000,31491,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift 1.2 DLX,2014,351000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Nano Cx BSIV,2012,75000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Nano Lx,2011,60000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LX,2011,151000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Nissan Sunny XL,2012,350000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2017,300000,30300,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Beat PS,2016,300000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2015,280000,15000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Datsun GO Plus T Option BSIV,2017,375000,20000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Datsun RediGO T Option,2017,220000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Indigo LS,2009,100000,20000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Figo Aspire 1.2 Ti-VCT Trend,2016,380000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Toyota Corolla Executive (HE),2009,300000,23262,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.1L,2015,310000,35925,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Celerio VXI AT,2015,395000,30500,Petrol,Dealer,Automatic,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2020,350000,1000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano CX SE,2013,75000,25000,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Mahindra Quanto C6,2014,250000,1,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,275000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 EX,2001,40000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID Climber 1.0 AMT,2017,300000,20000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Nissan Micra Diesel XV Premium,2013,210000,13770,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Zen LXi - BS III,2005,125000,34000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXL,2016,229999,38000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2016,400000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Indica Vista Quadrajet VX,2011,200000,28689,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Beat LT,2012,155000,12000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Magna LPG,2014,290000,29000,LPG,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2017,325000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT BSIV,2019,250000,27000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti A-Star Lxi,2008,120000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Manza Aura Quadrajet BS IV,2012,250999,35000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Datsun redi-GO AMT 1.0 T Option,2018,290000,15000,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Tata Nano Cx BSIII,2014,45000,7000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2009,110000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 AC BSIII,2005,120000,20000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater AC BSIV,2018,395000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Santro Xing XL eRLX Euro III,2006,100000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Indica Vista Quadrajet LX,2011,149000,10000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault Scala Diesel RxL,2014,400000,35000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail 1.2 LT ABS,2014,350000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI,2016,360000,33000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi BSIII,2010,210000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Force One EX,2014,346000,37516,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2019,280000,25880,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 LXI,2014,200999,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI Minor,2008,300000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI Airbag,2018,380000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2014,110000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXL,2020,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra Jeep Classic,1999,170000,2020,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Chevrolet Cruze LTZ,2012,400000,40000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 LX,2020,250000,1100,Petrol,Individual,Manual,Fourth & Above Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus Option,2017,315000,18469,Petrol,Trustmark Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Santro Magna AMT BSIV,2019,400000,16000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Esteem Vxi,2005,100000,20000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2017,350000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BSIII,2005,80000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Chevrolet Sail Hatchback 1.2 LS,2016,250000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO S,2016,270000,22000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2017,250000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO T Option,2017,200000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2010,160000,36000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Optional,2015,300000,22000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni 5 Str STD LPG,1998,50000,35000,LPG,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Santro Xing GLS,2013,324000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,200000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Optional,2015,300000,20500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Amaze S AT i-Vtech,2014,400000,15000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 LXI,2012,175000,20000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI AGS,2017,375000,27289,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2016,320000,24662,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Magna,2014,355000,39227,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2008,221000,35008,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Santro Xing GLS,2009,195000,27005,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 7 Seater Standard BSIV,2014,325000,39093,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era,2014,290000,12000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO 1.0 T Option,2018,375000,2769,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail Hatchback 1.2 LS,2015,280000,22255,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0,2016,265000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano LX SE,2012,35000,35000,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Maruti Alto K10 2010-2014 VXI,2012,260000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift VXI Optional,2016,360000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift 1.2 DLX,2015,220000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2017,178000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Ritz VXi,2014,300000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 2010-2014 VXI,2012,260000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 Std BSII,2006,90000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID RXT Optional,2016,280000,23000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Indica Vista Aqua TDI BSIII,2009,150000,30000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Indica Vista Quadrajet VX,2012,185000,40000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXL,2019,300000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2013,250000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra KUV 100 G80 K2,2018,320000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti 800 DX,2003,60000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2014,340000,15000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Chevrolet Aveo 1.6 LT,2006,150000,34600,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Renault KWID RXT Optional,2016,280000,23000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2017,350000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2014,204999,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Indica Vista Aqua TDI BSIII,2009,150000,30000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Toyota Corolla Altis 1.8 J,2008,400000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Swift Dzire VDI,2016,284000,40000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2018,300000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,300000,16584,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 2019-2020 XE Diesel,2016,385000,38000,Diesel,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.05 Revotorq XE,2016,381000,38000,Diesel,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2015,250999,35000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.05 Revotorq XE,2016,380000,38000,Diesel,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Omni 8 Seater BSIV,2013,170000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2019,295000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXL,2019,375000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXI,2003,60000,5000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R AX,2012,300000,30000,Petrol,Individual,Automatic,Second Owner,,,,,,,,,,,,,
-Honda Brio S MT,2012,285000,39039,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Honda Brio Exclusive Edition,2014,335000,33033,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON D Lite Plus,2015,250000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2017,300000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI CNG,2016,350000,30000,CNG,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Chevrolet Sail Hatchback 1.2 LS,2016,250000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO S,2016,270000,22000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Zen Estilo VXI BSIV,2011,280000,33000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti A-Star Vxi,2010,180000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,300000,10500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Cx BSIV,2011,75000,9528,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni E MPI STD BS IV,2017,215000,34000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 Base,2014,175000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2016,280000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2015,295000,21000,Petrol,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Datsun GO Plus T BSIV,2015,380000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 Std BSII,2006,90000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 2010-2014 VXI,2011,200000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Aveo U-VA 1.2 LT WO ABS Airbag,2009,110000,38500,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,300000,10500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON D Lite,2016,210000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.2 Revotron XE,2016,300000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 Base,2012,250000,8000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Nissan Micra Active XV S,2013,164000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXI,2005,56000,23000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Verna 1.6 VTVT,2010,190000,38000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO Plus T,2017,350000,10171,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2017,250000,19000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2014,275000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2016,350000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LX BS IV,2014,350000,40000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,305000,35000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni E MPI STD BS IV,2018,288000,20000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco Smiles 5 Seater AC,2014,325000,30000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Omni E MPI STD BS IV,2016,240000,5800,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2018,270000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON D Lite,2016,210000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON 1.0 Era Plus,2018,100000,21302,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i20 Magna Optional 1.2,2013,340000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXL,2019,265000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra Renault Logan 1.6 Petrol GLSX,2009,200000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2011,260000,28481,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2009,180000,30375,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID Climber 1.0 AMT BSIV,2017,350000,7658,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Renault KWID RXL BSIV,2017,325000,18500,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto VXi,2015,280000,26134,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R AMT VXI,2014,300000,28942,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Hyundai Grand i10 1.2 Kappa Sportz BSIV,2016,396000,28643,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI AGS,2015,281000,4432,Petrol,Dealer,Automatic,Second Owner,,,,,,,,,,,,,
-Hyundai Grand i10 Sportz,2014,400000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON 1.0 Era Plus,2019,400000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i20 1.2 Era,2010,250000,34500,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Chevrolet Optra Magnum 2.0 LT,2012,300000,25000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Optra Magnum 2.0 LT,2012,300000,25000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti A-Star Lxi,2009,145000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Spark 1.0 LT,2013,240000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2016,350000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Nissan Micra XL,2011,275000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Santro Xing XL eRLX Euro III,2006,100000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI AGS,2017,375000,27289,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2016,320000,24662,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Magna,2014,355000,39227,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2008,221000,35008,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Santro Xing GLS,2009,195000,27005,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2015,114999,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO 1.0 S,2017,210000,15000,Petrol,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Tata Indigo GLX,2006,75000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Ikon 1.6 ZXI NXt,2005,20000,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Ford Ikon 1.3 Flair,2005,61000,4637,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Swift 1.3 DLX,2015,270000,40000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater AC BSIV,2018,300000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID AMT,2017,355000,40000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2008,114999,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi BSIII,2008,105000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2011,170000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Eeco 7 Seater Standard BSIV,2017,260000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Amaze EX i-Dtech,2015,290000,40000,Diesel,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Tata Zest Revotron 1.2T XE,2016,380000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,229999,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,245000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Grand i10 Sportz,2016,375000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2007,75000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 Std Optional,2019,240000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Xcent 1.2 Kappa SX,2016,350000,12000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Getz GLS ABS,2005,71000,22000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift VXI Optional,2015,400000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi BSIII,2008,130000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2016,350000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Nissan Micra XL,2013,363000,28740,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2015,280000,15000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R AMT VXI Option,2018,370000,15000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LX,2017,280000,37000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail 1.2 Base,2014,290000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Classic 1.6 Duratec LXI,2011,265000,20000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Zen Estilo LXI BSIII,2008,105000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Honda Jazz VX,2011,385000,11473,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2014,260000,37605,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.2 AT,2013,330000,38000,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2016,300000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2014,200000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI Plus Optional,2017,380000,19000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI Plus Optional,2017,380000,19000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift Dzire VDI,2014,254999,30000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Celerio VXI,2015,300000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2017,290000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater AC BSIV,2018,300000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.2,2008,150000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift VVT VXI,2017,400000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i20 Sportz Petrol,2010,250000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2020,347000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXE,2018,245000,5550,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai i20 Magna,2010,250000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 AC BSII,2004,55000,35000,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Hyundai Santro Magna AMT BSIV,2019,400000,16000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2020,310000,1700,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,310000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2012,180000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Nano Lx BSIV,2012,45000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus Option,2016,250000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Indigo TDI,2012,200000,35000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LX,2016,150000,25000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Verna CRDi SX ABS,2009,325000,25000,Diesel,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Mahindra Quanto C8,2013,300000,25000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2011,260000,28481,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID Climber 1.0 AMT BSIV,2017,350000,7658,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI,2009,180000,30375,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXL BSIV,2017,325000,18500,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R AMT VXI,2014,300000,28942,Petrol,Dealer,Automatic,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI,2016,375000,23000,Petrol,Dealer,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Zen Estilo LXI BSIII,2007,275000,10211,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO Plus Remix Limited Edition,2016,300000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2015,265000,32933,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano LX SE,2012,95000,20778,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano CX,2014,55000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2019,210000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.1L,2015,229999,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 Std,1998,40000,40000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,,,,,,,,,
-Maruti 800 AC BSIII,2005,100000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2013,280000,3240,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Nissan Micra Diesel XV Premium,2013,210000,13770,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Ikon 1.3 Flair,2005,61000,4637,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Nissan Micra XL,2014,210000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Zen LXi - BS III,2005,125000,34000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail Hatchback 1.3 TCDi,2015,281000,40000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2015,270000,20969,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Celerio VXI,2016,399000,20194,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 AC,2014,225000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2016,300000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO SV 1.0,2019,350000,1300,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO T BSIV,2014,280000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Era 1.1 iTech SE,2011,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2014,260000,38000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Tata Nano Twist XT,2015,82000,19000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra Verito 1.5 D2 BSIII,2014,250000,30000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2015,310000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID RXT,2018,360000,26500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO T Option BSIV,2015,210000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 7 Seater Standard BSIV,2018,270000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON 1.0 Era Plus,2017,280000,28838,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail LS ABS,2014,375000,40000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO T Option,2016,229999,37500,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Sportz,2016,340000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.05 Revotorq XZ Plus,2018,400000,35000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI Optional,2015,260000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Twist XE,2015,100000,23800,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2019,190000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Toyota Corolla Altis 1.8 J,2008,400000,35000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2020,210000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI Airbag,2012,210000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2009,150000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Celerio VXI,2016,380000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2015,250000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2016,375000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2018,300000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO Plus T Option BSIV,2015,295000,21000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater AC BSIV,2017,350000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2018,360000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 AC,2002,80000,40000,Petrol,Individual,Manual,Fourth & Above Owner,,,,,,,,,,,,,
-Tata Nano Cx BSIII,2010,70000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus Option,2018,320000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2017,350000,25000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO 1.0 S,2017,250000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift 1.2 DLX,2018,300000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2016,300000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Era,2012,280000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2019,400000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2016,300000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti 800 AC Uniq,2009,110000,30000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Era,2011,254999,24000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.2 Revotron XT,2017,370000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2018,310000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2015,320000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Beat Diesel LT,2016,350000,35000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2017,300000,31489,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2017,280000,36000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Swift Dzire VDI,2014,185000,40000,Diesel,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2016,400000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Tiago 1.2 Revotron XZ,2018,360000,4000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Spark 1.0 LT,2010,180000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2018,231999,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO Plus T BSIV,2018,400000,4400,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai i10 Magna 1.1L,2014,295000,38500,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz,2011,220000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Classic 1.4 Duratorq LXI,2013,250000,35000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai Verna 1.6 VTVT,2012,300000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Beat Diesel LT,2013,215000,20000,Diesel,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2012,245000,14987,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Tata New Safari DICOR 2.2 VX 4x2,2010,210000,34500,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON D Lite,2016,275000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2013,250000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Ford Fiesta Classic 1.6 Duratec CLXI,2012,350000,38000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID 1.0 RXT Optional,2017,300000,13000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID RXE,2016,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Beat Diesel LT,2012,250000,40000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun RediGO AMT 1.0 S,2018,300000,25000,Petrol,Individual,Automatic,First Owner,,,,,,,,,,,,,
-Datsun GO T Petrol,2015,310000,32686,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Spark 1.0 LT,2012,125000,28000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Bolt Revotron XM,2015,375000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,360000,6000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2011,150000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,285000,14000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2015,365000,23600,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2014,225000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz,2011,225000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BS IV,2015,390000,32260,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2018,350000,15000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,300000,17000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,360000,6000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2011,150000,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI BSIII,2012,229999,40000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2018,300000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI Optional,2019,335000,28000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Esteem Lxi - BSIII,2005,80000,24000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2011,225000,37091,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto K10 VXI,2018,320000,38900,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Renault KWID RXT,2017,220000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2018,350000,20000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Magna,2011,250000,28000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R VXI Minor,2012,229999,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Ford Figo Petrol ZXI,2012,130000,30000,Petrol,Individual,Manual,Third Owner,,,,,,,,,,,,,
-Hyundai i10 Sportz 1.1L,2014,300000,37555,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 VXI,2019,300000,5000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Mahindra Verito Vibe 1.5 dCi D6,2015,280000,40000,Diesel,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Eeco 5 Seater AC BSIV,2017,260000,30000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,285000,30000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai i10 Magna,2012,240000,40000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Magna Plus,2015,245000,32000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Hyundai EON Era Plus,2015,250000,25000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti SX4 Zxi BSIII,2008,350000,10000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Wagon R LXI Minor,2009,180000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Tata Nano Cx BSIII,2014,45000,7000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Renault KWID RXT Optional,2016,300000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2015,275000,14365,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Ritz VXi,2015,320000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXi,2011,200000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Nissan Micra Active XV S,2013,164000,30000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto LXI,2005,56000,23000,Petrol,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Hyundai Verna 1.6 VTVT,2010,190000,38000,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Ritz VDi,2011,150000,40000,Diesel,Individual,Manual,Second Owner,,,,,,,,,,,,,
-Maruti Alto 800 LXI,2018,200000,35000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Datsun GO Plus T,2017,350000,10171,Petrol,Dealer,Manual,First Owner,,,,,,,,,,,,,
-Maruti Alto 800 Base,2015,155000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
-Renault KWID RXT,2016,225000,40000,Petrol,Individual,Manual,First Owner,,,,,,,,,,,,,
+Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Enjoy TCDi LTZ 7 Seater,2013,390000,33000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Omni Maruti Omni MPI STD BSIII 5-STR W/ IMMOBILISER,2018,310000,28000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Mahindra Jeep CL 500 MDI,1996,250000,35000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Hyundai EON Magna Plus,2018,300000,31000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Indigo Classic Dicor,2007,100000,39000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Honda Brio S MT,2015,371000,20000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Datsun RediGO 1.0 S,2017,210000,15000,Petrol,Dealer,Manual,Second Owner,0,0,0,1,1,0,0,0,1,0,0,1,0
+Maruti SX4 Zxi BSIII,2008,175000,29173,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Nissan Micra Active XV Petrol,2017,399000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2017,315000,16000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2017,350000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.1L,2015,229999,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 Std,1998,40000,40000,Petrol,Individual,Manual,Fourth & Above Owner,0,0,0,1,0,1,0,0,1,0,1,0,0
+Maruti 800 AC BSIII,2005,100000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2013,280000,3240,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID RXT,2016,225000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Beat LT,2016,320000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 LXI CNG,2020,282000,40000,CNG,Individual,Manual,First Owner,1,0,0,0,0,1,0,0,1,1,0,0,0
+Tata Nano LX SE,2013,72000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2018,380000,22155,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 7 Seater Standard BSIV,2017,390000,24000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Nissan Micra XL,2014,210000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Omni MPI STD BSIV,2018,200000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2018,360000,26500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 VXI,2017,282000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Ertiga VXI ABS,2013,350000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Honda Brio 1.2 E MT,2017,350000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Tiago 1.2 Revotron XZ,2018,360000,4000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,229999,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Spark 1.0 LT,2012,125000,28000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Sail 1.2 LT ABS,2014,350000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LXI,2005,80000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Datsun GO A,2015,250000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R VXI BS IV,2014,300000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Indica LSI,2002,125000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano STD,2013,55000,25000,Petrol,Individual,Manual,Fourth & Above Owner,0,0,0,1,0,1,0,0,1,0,1,0,0
+Hyundai Grand i10 Sportz,2016,350000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI AGS Optional,2018,300000,25000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Maruti Alto LX,2011,145000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT Optional,2017,270000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2018,325000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 AC,2000,60000,40000,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Maruti Swift VVT VXI,2017,400000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i20 Sportz Petrol,2010,250000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Tiago 1.2 Revotron XZA,2019,350000,15000,Petrol,Individual,Automatic,Second Owner,0,0,0,1,0,1,0,1,0,0,0,1,0
+Maruti Alto 800 LXI,2016,130000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2014,190000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 VXI,2016,300000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Spark 1.0 LS,2008,75000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Ritz VDi,2011,150000,40000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Hyundai Santro Era,2019,350000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Ford Endeavour 4x4 XLT,2004,275000,22288,Diesel,Dealer,Manual,Second Owner,0,1,0,0,1,0,0,0,1,0,0,1,0
+Tata Nano Lx,2011,75000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2017,390000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,310000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Omni MPI STD BSIV,2018,250000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Zest Revotron 1.2 XT,2015,380000,17152,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2013,200000,24005,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO Plus T Option BSIV,2018,270000,19000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 VXI Airbag,2015,275000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Era 1.1,2009,270000,27633,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2015,275000,14365,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2015,295000,21000,Petrol,Dealer,Manual,Second Owner,0,0,0,1,1,0,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2014,114999,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Omni E MPI STD BS IV,2014,229999,11451,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 5 Seater Standard BSIV,2019,380000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Lx BSIV,2012,75000,29900,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2016,270000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2009,110000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra Renault Logan 1.4 GLX Petrol,2008,145000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Ritz LXI,2009,300000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 VXI,2018,195000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano LX,2013,58000,27974,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 VXI,2018,183000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LX Minor,2013,250000,38000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LX Minor,2013,250000,38000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Zest Revotron 1.2 XT,2014,400000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Grand i10 1.2 Kappa Sportz Dual Tone,2013,325000,35299,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto LXi,2010,140000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 VXI,2017,229999,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2018,325000,20629,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai Grand i10 AT Asta,2015,400000,30000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Honda Brio S MT,2015,350000,34823,Petrol,Dealer,Manual,Second Owner,0,0,0,1,1,0,0,0,1,0,0,1,0
+Hyundai EON Era Plus,2017,290000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.2,2008,150000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti SX4 Vxi BSIV,2013,400000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Xcent 1.2 Kappa SX,2016,350000,12000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra Quanto C8,2013,300000,25000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Wagon R LXI,2011,260000,28481,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R LXI,2009,180000,30375,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Renault KWID Climber 1.0 AMT BSIV,2017,350000,7658,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Renault KWID RXL BSIV,2017,325000,18500,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R AMT VXI,2014,300000,28942,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Fiat Palio D 1.9 EL PS,2003,55000,35000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Honda Brio 1.2 S MT,2017,400000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Omni MPI STD BSIV,2018,200000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano LX,2013,60000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i20 1.2 Spotz,2017,400000,38000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Nano Std,2011,40000,19000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LX,2012,155000,19077,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON D Lite,2016,210000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON 1.0 Era Plus,2018,100000,21302,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2018,300000,10500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Honda Jazz VX,2011,385000,11473,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2014,260000,37605,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.2 AT,2013,330000,38000,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Renault KWID RXT Optional,2016,250000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2019,350000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI Airbag,2019,350000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2017,320000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Indica Vista TDI LS,2014,250000,25000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2014,210000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Ritz LXI,2009,300000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Honda Brio 1.2 S MT,2017,400000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2018,380000,22155,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Lx,2011,120000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 7 Seater Standard BSIV,2018,270000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON 1.0 Era Plus,2017,280000,28838,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO T Petrol,2015,310000,32686,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2018,370000,10000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2015,250000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Esteem VX,1999,60000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Eeco 5 Seater AC BSIV,2017,260000,30000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,285000,30000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Magna,2012,240000,40000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2015,245000,32000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto LX,2011,180000,36000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON D Lite Plus,2013,229999,13500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2017,350000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Grand i10 Magna,2015,325000,25000,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Maruti Alto LXi BSIII,2010,150000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2014,204999,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai Grand i10 Sportz,2017,375000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.1L,2017,375000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Grand i10 Asta,2014,341000,31491,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift 1.2 DLX,2014,351000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Nano Cx BSIV,2012,75000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Nano Lx,2011,60000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LX,2011,151000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Nissan Sunny XL,2012,350000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2017,300000,30300,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Beat PS,2016,300000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2015,280000,15000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Datsun GO Plus T Option BSIV,2017,375000,20000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Datsun RediGO T Option,2017,220000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Indigo LS,2009,100000,20000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Ford Figo Aspire 1.2 Ti-VCT Trend,2016,380000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Toyota Corolla Executive (HE),2009,300000,23262,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.1L,2015,310000,35925,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Celerio VXI AT,2015,395000,30500,Petrol,Dealer,Automatic,Second Owner,0,0,0,1,1,0,0,1,0,0,0,1,0
+Maruti Alto 800 VXI,2020,350000,1000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano CX SE,2013,75000,25000,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Mahindra Quanto C6,2014,250000,1,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2018,275000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 EX,2001,40000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID Climber 1.0 AMT,2017,300000,20000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Nissan Micra Diesel XV Premium,2013,210000,13770,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Zen LXi - BS III,2005,125000,34000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Renault KWID RXL,2016,229999,38000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2016,400000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Indica Vista Quadrajet VX,2011,200000,28689,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Chevrolet Beat LT,2012,155000,12000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Magna LPG,2014,290000,29000,LPG,Individual,Manual,First Owner,0,0,1,0,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2017,325000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT BSIV,2019,250000,27000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti A-Star Lxi,2008,120000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Manza Aura Quadrajet BS IV,2012,250999,35000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Datsun redi-GO AMT 1.0 T Option,2018,290000,15000,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Tata Nano Cx BSIII,2014,45000,7000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto LXi,2009,110000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 AC BSIII,2005,120000,20000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Eeco 5 Seater AC BSIV,2018,395000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Santro Xing XL eRLX Euro III,2006,100000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Indica Vista Quadrajet LX,2011,149000,10000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Renault Scala Diesel RxL,2014,400000,35000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Chevrolet Sail 1.2 LT ABS,2014,350000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI,2016,360000,33000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto LXi BSIII,2010,210000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Force One EX,2014,346000,37516,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2019,280000,25880,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 LXI,2014,200999,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LXI Minor,2008,300000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI Airbag,2018,380000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2014,110000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXL,2020,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra Jeep Classic,1999,170000,2020,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Chevrolet Cruze LTZ,2012,400000,40000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 LX,2020,250000,1100,Petrol,Individual,Manual,Fourth & Above Owner,0,0,0,1,0,1,0,0,1,0,1,0,0
+Hyundai EON Era Plus Option,2017,315000,18469,Petrol,Trustmark Dealer,Manual,First Owner,0,0,0,1,0,0,1,0,1,1,0,0,0
+Hyundai Santro Magna AMT BSIV,2019,400000,16000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Maruti Esteem Vxi,2005,100000,20000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R VXI BS IV,2017,350000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BSIII,2005,80000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Chevrolet Sail Hatchback 1.2 LS,2016,250000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun RediGO S,2016,270000,22000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2017,250000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun RediGO T Option,2017,200000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2010,160000,36000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Optional,2015,300000,22000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Omni 5 Str STD LPG,1998,50000,35000,LPG,Individual,Manual,Second Owner,0,0,1,0,0,1,0,0,1,0,0,1,0
+Hyundai Santro Xing GLS,2013,324000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,200000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Optional,2015,300000,20500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Honda Amaze S AT i-Vtech,2014,400000,15000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Maruti Alto K10 LXI,2012,175000,20000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 VXI AGS,2017,375000,27289,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Hyundai EON Era Plus,2016,320000,24662,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Magna,2014,355000,39227,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R LXI,2008,221000,35008,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai Santro Xing GLS,2009,195000,27005,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Eeco 7 Seater Standard BSIV,2014,325000,39093,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era,2014,290000,12000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Datsun RediGO 1.0 T Option,2018,375000,2769,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Chevrolet Sail Hatchback 1.2 LS,2015,280000,22255,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0,2016,265000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano LX SE,2012,35000,35000,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Maruti Alto K10 2010-2014 VXI,2012,260000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift VXI Optional,2016,360000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift 1.2 DLX,2015,220000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2017,178000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Ritz VXi,2014,300000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 2010-2014 VXI,2012,260000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 Std BSII,2006,90000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID RXT Optional,2016,280000,23000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Indica Vista Aqua TDI BSIII,2009,150000,30000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Tata Indica Vista Quadrajet VX,2012,185000,40000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Renault KWID RXL,2019,300000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2013,250000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra KUV 100 G80 K2,2018,320000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti 800 DX,2003,60000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2014,340000,15000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Chevrolet Aveo 1.6 LT,2006,150000,34600,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Renault KWID RXT Optional,2016,280000,23000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2017,350000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2014,204999,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Indica Vista Aqua TDI BSIII,2009,150000,30000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Toyota Corolla Altis 1.8 J,2008,400000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Swift Dzire VDI,2016,284000,40000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 VXI,2018,300000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,300000,16584,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Tata Tiago 2019-2020 XE Diesel,2016,385000,38000,Diesel,Dealer,Manual,First Owner,0,1,0,0,1,0,0,0,1,1,0,0,0
+Tata Tiago 1.05 Revotorq XE,2016,381000,38000,Diesel,Dealer,Manual,First Owner,0,1,0,0,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2015,250999,35000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Tata Tiago 1.05 Revotorq XE,2016,380000,38000,Diesel,Dealer,Manual,First Owner,0,1,0,0,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Omni 8 Seater BSIV,2013,170000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2019,295000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXL,2019,375000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXI,2003,60000,5000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R AX,2012,300000,30000,Petrol,Individual,Automatic,Second Owner,0,0,0,1,0,1,0,1,0,0,0,1,0
+Honda Brio S MT,2012,285000,39039,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Honda Brio Exclusive Edition,2014,335000,33033,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON D Lite Plus,2015,250000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2017,300000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LXI CNG,2016,350000,30000,CNG,Individual,Manual,Second Owner,1,0,0,0,0,1,0,0,1,0,0,1,0
+Chevrolet Sail Hatchback 1.2 LS,2016,250000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun RediGO S,2016,270000,22000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Zen Estilo VXI BSIV,2011,280000,33000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti A-Star Vxi,2010,180000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2018,300000,10500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Cx BSIV,2011,75000,9528,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Omni E MPI STD BS IV,2017,215000,34000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 Base,2014,175000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2016,280000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2015,295000,21000,Petrol,Dealer,Manual,Second Owner,0,0,0,1,1,0,0,0,1,0,0,1,0
+Datsun GO Plus T BSIV,2015,380000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 Std BSII,2006,90000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 2010-2014 VXI,2011,200000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Aveo U-VA 1.2 LT WO ABS Airbag,2009,110000,38500,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID 1.0 RXT Optional,2018,300000,10500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON D Lite,2016,210000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Tiago 1.2 Revotron XE,2016,300000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 Base,2012,250000,8000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Nissan Micra Active XV S,2013,164000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXI,2005,56000,23000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai Verna 1.6 VTVT,2010,190000,38000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Datsun GO Plus T,2017,350000,10171,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2017,250000,19000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2014,275000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2013,92800,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID 1.0 RXT Optional,2016,350000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LX BS IV,2014,350000,40000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,305000,35000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Omni E MPI STD BS IV,2018,288000,20000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Eeco Smiles 5 Seater AC,2014,325000,30000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Omni E MPI STD BS IV,2016,240000,5800,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON Era Plus,2018,270000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON D Lite,2016,210000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON 1.0 Era Plus,2018,100000,21302,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i20 Magna Optional 1.2,2013,340000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXL,2019,265000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra Renault Logan 1.6 Petrol GLSX,2009,200000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R LXI,2011,260000,28481,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R LXI,2009,180000,30375,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Renault KWID Climber 1.0 AMT BSIV,2017,350000,7658,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Renault KWID RXL BSIV,2017,325000,18500,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto VXi,2015,280000,26134,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R AMT VXI,2014,300000,28942,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2016,396000,28643,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto K10 VXI AGS,2015,281000,4432,Petrol,Dealer,Automatic,Second Owner,0,0,0,1,1,0,0,1,0,0,0,1,0
+Hyundai Grand i10 Sportz,2014,400000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON 1.0 Era Plus,2019,400000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i20 1.2 Era,2010,250000,34500,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Chevrolet Optra Magnum 2.0 LT,2012,300000,25000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Chevrolet Optra Magnum 2.0 LT,2012,300000,25000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti A-Star Lxi,2009,145000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Spark 1.0 LT,2013,240000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2016,350000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Nissan Micra XL,2011,275000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai Santro Xing XL eRLX Euro III,2006,100000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 VXI AGS,2017,375000,27289,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Hyundai EON Era Plus,2016,320000,24662,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Magna,2014,355000,39227,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R LXI,2008,221000,35008,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai Santro Xing GLS,2009,195000,27005,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2015,114999,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun RediGO 1.0 S,2017,210000,15000,Petrol,Dealer,Manual,Second Owner,0,0,0,1,1,0,0,0,1,0,0,1,0
+Tata Indigo GLX,2006,75000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID 1.0 RXT Optional,2018,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Ford Ikon 1.6 ZXI NXt,2005,20000,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Ford Ikon 1.3 Flair,2005,61000,4637,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Swift 1.3 DLX,2015,270000,40000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Renault KWID 1.0 RXT Optional,2018,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 5 Seater AC BSIV,2018,300000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID AMT,2017,355000,40000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Maruti Alto LXi,2008,114999,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi BSIII,2008,105000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R VXI BS IV,2011,170000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Eeco 7 Seater Standard BSIV,2017,260000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Honda Amaze EX i-Dtech,2015,290000,40000,Diesel,Individual,Manual,Third Owner,0,1,0,0,0,1,0,0,1,0,0,0,1
+Tata Zest Revotron 1.2T XE,2016,380000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,229999,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,245000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Grand i10 Sportz,2016,375000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2007,75000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 Std Optional,2019,240000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Xcent 1.2 Kappa SX,2016,350000,12000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai Getz GLS ABS,2005,71000,22000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift VXI Optional,2015,400000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi BSIII,2008,130000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 VXI,2016,350000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Nissan Micra XL,2013,363000,28740,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2015,280000,15000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R AMT VXI Option,2018,370000,15000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Maruti Alto 800 LX,2017,280000,37000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Sail 1.2 Base,2014,290000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Ford Classic 1.6 Duratec LXI,2011,265000,20000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Zen Estilo LXI BSIII,2008,105000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Honda Jazz VX,2011,385000,11473,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2014,260000,37605,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.2 AT,2013,330000,38000,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Maruti Alto K10 VXI,2016,300000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2014,200000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI Plus Optional,2017,380000,19000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI Plus Optional,2017,380000,19000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift Dzire VDI,2014,254999,30000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Celerio VXI,2015,300000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2017,290000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 5 Seater AC BSIV,2018,300000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.2,2008,150000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift VVT VXI,2017,400000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i20 Sportz Petrol,2010,250000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2020,347000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXE,2018,245000,5550,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai i20 Magna,2010,250000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 AC BSII,2004,55000,35000,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Hyundai Santro Magna AMT BSIV,2019,400000,16000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Maruti Alto 800 LXI,2020,310000,1700,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,310000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2012,180000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Nano Lx BSIV,2012,45000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON Era Plus Option,2016,250000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Indigo TDI,2012,200000,35000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LX,2016,150000,25000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai Verna CRDi SX ABS,2009,325000,25000,Diesel,Individual,Manual,Third Owner,0,1,0,0,0,1,0,0,1,0,0,0,1
+Mahindra Quanto C8,2013,300000,25000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Wagon R LXI,2011,260000,28481,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Renault KWID Climber 1.0 AMT BSIV,2017,350000,7658,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Maruti Wagon R LXI,2009,180000,30375,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Renault KWID RXL BSIV,2017,325000,18500,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R AMT VXI,2014,300000,28942,Petrol,Dealer,Automatic,First Owner,0,0,0,1,1,0,0,1,0,1,0,0,0
+Maruti Wagon R VXI,2016,375000,23000,Petrol,Dealer,Manual,Second Owner,0,0,0,1,1,0,0,0,1,0,0,1,0
+Maruti Zen Estilo LXI BSIII,2007,275000,10211,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO Plus Remix Limited Edition,2016,300000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2015,265000,32933,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Tata Nano LX SE,2012,95000,20778,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Tata Nano CX,2014,55000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2019,210000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz 1.1L,2015,229999,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 Std,1998,40000,40000,Petrol,Individual,Manual,Fourth & Above Owner,0,0,0,1,0,1,0,0,1,0,1,0,0
+Maruti 800 AC BSIII,2005,100000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2013,280000,3240,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Nissan Micra Diesel XV Premium,2013,210000,13770,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Ford Ikon 1.3 Flair,2005,61000,4637,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Nissan Micra XL,2014,210000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Zen LXi - BS III,2005,125000,34000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Chevrolet Sail Hatchback 1.3 TCDi,2015,281000,40000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2015,270000,20969,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Celerio VXI,2016,399000,20194,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti 800 AC,2014,225000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2016,300000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun RediGO SV 1.0,2019,350000,1300,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO T BSIV,2014,280000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Era 1.1 iTech SE,2011,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2014,260000,38000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Tata Nano Twist XT,2015,82000,19000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra Verito 1.5 D2 BSIII,2014,250000,30000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2015,310000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID RXT,2018,360000,26500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO T Option BSIV,2015,210000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 7 Seater Standard BSIV,2018,270000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON 1.0 Era Plus,2017,280000,28838,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Sail LS ABS,2014,375000,40000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Datsun RediGO T Option,2016,229999,37500,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON Sportz,2016,340000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Tiago 1.05 Revotorq XZ Plus,2018,400000,35000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI Optional,2015,260000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Twist XE,2015,100000,23800,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2019,190000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Toyota Corolla Altis 1.8 J,2008,400000,35000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 VXI,2020,210000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI Airbag,2012,210000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2009,150000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Celerio VXI,2016,380000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2015,250000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2016,375000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON Era Plus,2018,300000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO Plus T Option BSIV,2015,295000,21000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Eeco 5 Seater AC BSIV,2017,350000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID 1.0 RXT Optional,2018,360000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 AC,2002,80000,40000,Petrol,Individual,Manual,Fourth & Above Owner,0,0,0,1,0,1,0,0,1,0,1,0,0
+Tata Nano Cx BSIII,2010,70000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus Option,2018,320000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2017,350000,25000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Datsun RediGO 1.0 S,2017,250000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift 1.2 DLX,2018,300000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2016,300000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Era,2012,280000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID 1.0 RXT Optional,2019,400000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2016,300000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti 800 AC Uniq,2009,110000,30000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON Era,2011,254999,24000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Tata Tiago 1.2 Revotron XT,2017,370000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2018,310000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2015,320000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Beat Diesel LT,2016,350000,35000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Alto K10 VXI,2017,300000,31489,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2017,280000,36000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Swift Dzire VDI,2014,185000,40000,Diesel,Individual,Manual,Third Owner,0,1,0,0,0,1,0,0,1,0,0,0,1
+Maruti Wagon R VXI BS IV,2016,400000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Tiago 1.2 Revotron XZ,2018,360000,4000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Spark 1.0 LT,2010,180000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2018,231999,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO Plus T BSIV,2018,400000,4400,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai i10 Magna 1.1L,2014,295000,38500,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz,2011,220000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Ford Classic 1.4 Duratorq LXI,2013,250000,35000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Hyundai Verna 1.6 VTVT,2012,300000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Beat Diesel LT,2013,215000,20000,Diesel,Individual,Manual,Third Owner,0,1,0,0,0,1,0,0,1,0,0,0,1
+Hyundai EON Magna Plus,2012,245000,14987,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Tata New Safari DICOR 2.2 VX 4x2,2010,210000,34500,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Hyundai EON D Lite,2016,275000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2013,250000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Ford Fiesta Classic 1.6 Duratec CLXI,2012,350000,38000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID 1.0 RXT Optional,2017,300000,13000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID RXE,2016,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Beat Diesel LT,2012,250000,40000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Datsun RediGO AMT 1.0 S,2018,300000,25000,Petrol,Individual,Automatic,First Owner,0,0,0,1,0,1,0,1,0,1,0,0,0
+Datsun GO T Petrol,2015,310000,32686,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Chevrolet Spark 1.0 LT,2012,125000,28000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Bolt Revotron XM,2015,375000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,360000,6000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2011,150000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2018,285000,14000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2015,365000,23600,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2014,225000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Sportz,2011,225000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R VXI BS IV,2015,390000,32260,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2018,350000,15000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,300000,17000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Chevrolet Sail 1.2 Base,2015,260000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2018,360000,6000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2011,150000,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Maruti Wagon R VXI BSIII,2012,229999,40000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai EON Magna Plus,2018,300000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto 800 LXI Optional,2019,335000,28000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Esteem Lxi - BSIII,2005,80000,24000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2011,225000,37091,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto K10 VXI,2018,320000,38900,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Renault KWID RXT,2017,220000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2018,350000,20000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Hyundai i10 Magna,2011,250000,28000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Wagon R VXI Minor,2012,229999,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Ford Figo Petrol ZXI,2012,130000,30000,Petrol,Individual,Manual,Third Owner,0,0,0,1,0,1,0,0,1,0,0,0,1
+Hyundai i10 Sportz 1.1L,2014,300000,37555,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 VXI,2019,300000,5000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Mahindra Verito Vibe 1.5 dCi D6,2015,280000,40000,Diesel,Individual,Manual,First Owner,0,1,0,0,0,1,0,0,1,1,0,0,0
+Maruti Eeco 5 Seater AC BSIV,2017,260000,30000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 LXI,2018,285000,30000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai i10 Magna,2012,240000,40000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Magna Plus,2015,245000,32000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Hyundai EON Era Plus,2015,250000,25000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti SX4 Zxi BSIII,2008,350000,10000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Wagon R LXI Minor,2009,180000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Tata Nano Cx BSIII,2014,45000,7000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Renault KWID RXT Optional,2016,300000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2015,275000,14365,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Ritz VXi,2015,320000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXi,2011,200000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Nissan Micra Active XV S,2013,164000,30000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Maruti Alto LXI,2005,56000,23000,Petrol,Individual,Manual,Second Owner,0,0,0,1,0,1,0,0,1,0,0,1,0
+Hyundai Verna 1.6 VTVT,2010,190000,38000,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Ritz VDi,2011,150000,40000,Diesel,Individual,Manual,Second Owner,0,1,0,0,0,1,0,0,1,0,0,1,0
+Maruti Alto 800 LXI,2018,200000,35000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Datsun GO Plus T,2017,350000,10171,Petrol,Dealer,Manual,First Owner,0,0,0,1,1,0,0,0,1,1,0,0,0
+Maruti Alto 800 Base,2015,155000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
+Renault KWID RXT,2016,225000,40000,Petrol,Individual,Manual,First Owner,0,0,0,1,0,1,0,0,1,1,0,0,0
